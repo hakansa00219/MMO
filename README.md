@@ -1,2 +1,2 @@
 # MMO
-Learning how MMO games made. Server/Client codes.
+Learning how MMO games are made. Server/Client codes.
